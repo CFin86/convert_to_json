@@ -1,0 +1,15 @@
+{
+  "name": "convert_to_json",
+  "version": "1.0.0",
+  "description": "Just a simple node.js tool to convert a string to a json array",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Chris Finney",
+  "license": "ISC",
+  "dependencies": {
+    "clipboardy": "^3.0.0"
+  },
+    "type": "module"
+}
